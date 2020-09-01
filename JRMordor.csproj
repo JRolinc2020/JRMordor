@@ -5,4 +5,6 @@
     <UserSecretsId>6a8ad5ba-5e31-48dc-b50e-508587cdf658</UserSecretsId>
   </PropertyGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties wwwroot_4lib_4bootstrap_4dist_4css_4bootstrap_1css_1map__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
 </Project>
