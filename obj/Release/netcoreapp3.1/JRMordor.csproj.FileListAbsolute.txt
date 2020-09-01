@@ -10,7 +10,6 @@ C:\Users\v-jeroli\source\repos\JRMordor\bin\Release\netcoreapp3.1\JRMordor.dll
 C:\Users\v-jeroli\source\repos\JRMordor\bin\Release\netcoreapp3.1\JRMordor.pdb
 C:\Users\v-jeroli\source\repos\JRMordor\bin\Release\netcoreapp3.1\JRMordor.Views.dll
 C:\Users\v-jeroli\source\repos\JRMordor\bin\Release\netcoreapp3.1\JRMordor.Views.pdb
-C:\Users\v-jeroli\source\repos\JRMordor\obj\Release\netcoreapp3.1\JRMordor.csprojAssemblyReference.cache
 C:\Users\v-jeroli\source\repos\JRMordor\obj\Release\netcoreapp3.1\JRMordor.AssemblyInfoInputs.cache
 C:\Users\v-jeroli\source\repos\JRMordor\obj\Release\netcoreapp3.1\JRMordor.AssemblyInfo.cs
 C:\Users\v-jeroli\source\repos\JRMordor\obj\Release\netcoreapp3.1\JRMordor.csproj.CoreCompileInputs.cache
@@ -36,3 +35,4 @@ C:\Users\v-jeroli\source\repos\JRMordor\obj\Release\netcoreapp3.1\JRMordor.dll
 C:\Users\v-jeroli\source\repos\JRMordor\obj\Release\netcoreapp3.1\JRMordor.pdb
 C:\Users\v-jeroli\source\repos\JRMordor\obj\Release\netcoreapp3.1\JRMordor.genruntimeconfig.cache
 C:\Users\v-jeroli\source\repos\JRMordor\obj\Release\netcoreapp3.1\JRMordor.csproj.CopyComplete
+C:\Users\v-jeroli\source\repos\JRMordor\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\jrappservice1-jrpreprod - Web Deploy\profile.arm.json
